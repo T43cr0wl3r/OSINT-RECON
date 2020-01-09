@@ -416,7 +416,7 @@ Awesome open source intelligence tools and resources.
 
 | Name | URL | 
 |:---:|:---:|
-| Querys | https://github.com/T43cr0wl3r/shodan-filters |
+| Queries | https://github.com/T43cr0wl3r/shodan-filters |
 
 - Yandex
 
