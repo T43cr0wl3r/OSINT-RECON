@@ -1020,9 +1020,11 @@ Awesome open source intelligence tools and resources.
 |:---:|:---:|
 |  |  |
 | Airportwebcams | https://airportwebcams.net/ |
+| Binaryedge | https://app.binaryedge.io/login |
 | Censys | https://censys.io/ |
 | Earthcam | https://www.earthcam.com/ |
 | Fofa | https://fofa.so/ |
+| Grayhatwarfare | https://buckets.grayhatwarfare.com/ |
 | Insecam | http://www.insecam.org/ |
 | Netdb.io | https://www.netdb.io/ |
 | Opentopia | http://www.opentopia.com/ |
