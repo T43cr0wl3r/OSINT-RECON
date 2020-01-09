@@ -1,0 +1,60 @@
+| Name | URLs | 
+|:---:|:---:|
+| Advangle | http://advangle.com |
+| All in one | https://all-io.net/ |
+| Alltheinternet | https://www.alltheinternet.com/ |
+| Aol | http://search.aol.com |
+| Arabo | http://www.arabo.com/ |
+| Ask | http://www.ask.com |
+| Baidu | http://www.baidu.com/ |
+| Base | https://www.base-search.net/ |
+| Bing | http://www.bing.com |
+| Cliqz | https://cliqz.com |
+| Daum | https://www.daum.net/ |
+| Discretesearch | https://www.discretesearch.com/ |
+| Dooble | https://textbrowser.github.io/dooble |
+| DuckDuckGo | https://duckduckgo.com |
+| Ecosia | https://www.ecosia.org/ |
+| Eniro | https://www.eniro.se/ |
+| Entireweb | https://www.entireweb.com/ |
+| Exalead | https://www.exalead.com/search/ |
+| Fastbot | https://www.fastbot.de/ |
+| Findx | https://www.findx.com/ |
+| Gibiru | https://gibiru.com/ |
+| Gigablast | http://gigablast.com |
+| Goo | https://www.goo.ne.jp/ |
+| Google | http://www.google.com |
+| Infospace | http://infospace.com/ |
+| Instya | http://www.instya.com |
+| Impersonal.me | http://www.impersonal.me |
+| Isearchfrom | http://isearchfrom.com/ |
+| iSEEK Education | http://education.iseek.com/iseek/home.page |
+| Izito | https://www.izito.com/ |
+| Lycos | http://www.lycos.com/ |
+| Lukol | https://www.lukol.com/ |
+| Metacrawler | http://www.metacrawler.com/ |
+| Metager | https://metager.de/ |
+| Millionshort | https://millionshort.com/ |
+| Moose | https://www.moose.at/ |
+| Najdi | http://www.najdi.si/ |
+| Naver | https://www.naver.com/ |
+| Onet | https://www.onet.pl/ |
+| Orange | https://www.orange.fr/portail |
+| Oscobo | https://www.oscobo.com/ |
+| Parseek | http://www.parseek.com |
+| Peekier | https://peekier.com/ |
+| Qwant | https://www.qwant.com/ |
+| Search.ch | https://www.search.ch/ |
+| Search.com | http://www.search.com |
+| Searchencrypt | https://www.searchencrypt.com/ |
+| Searx | https://searx.me/ |
+| So | https://www.so.com/ |
+| Startpage | https://www.startpage.com/ |
+| Start.me | https://start.me/ |
+| Swisscows | https://swisscows.com/ |
+| Teoma | http://www.teoma.com |
+| Tiger | https://tiger.ch/ |
+| Wolfram Alpha | http://www.wolframalpha.com |
+| Yahoo! Search | http://www.yahoo.com |
+| Yandex | https://yandex.com/ |
+| Yippy | https://www.yippy.com/ |
