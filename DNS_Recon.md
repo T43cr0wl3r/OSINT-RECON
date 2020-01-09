@@ -1,0 +1,30 @@
+| Name | URLs | 
+|:---:|:---:|
+| Assets-from-spf | https://github.com/0xbharath/assets-from-spf |
+| Amass | https://github.com/caffix/amass |
+| Altdns | https://github.com/infosec-au/altdns |
+| Aquatone | https://github.com/michenriksen/aquatone |
+| Bugcrowd-levelup-subdomain-enumeration | https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration |
+| Censys-subdomain-finder | https://github.com/christophetd/censys-subdomain-finder |
+| Ct-exposer | https://github.com/chris408/ct-exposer |
+| Ctfr | https://github.com/UnaPibaGeek/ctfr |
+| Dnscan | https://github.com/rbsec/dnscan |
+| Dnssearch | https://github.com/evilsocket/dnssearch | 
+| Domain_analyzer | https://github.com/eldraco/domain_analyzer |
+| DomainRecon | https://github.com/realsanjay/DomainRecon |
+| Domains-from-csp | https://github.com/0xbharath/domains-from-csp |
+| Fierce | https://github.com/mschwager/fierce |
+| Findomain | https://github.com/Edu4rdSHL/findomain |
+| Gobuster | https://github.com/OJ/gobuster |
+| Knock | https://github.com/guelfoweb/knock |
+| Massdns | https://github.com/blechschmidt/massdns |
+| Nmap dns-brute | https://nmap.org/nsedoc/scripts/dns-brute.html |
+| Osmedeus | https://github.com/j3ssie/Osmedeus |
+| Recon-ng | https://github.com/lanmaster53/recon-ng |
+| Subbrute | https://github.com/TheRook/subbrute |
+| SubDomainsBrute | https://github.com/lijiejie/subDomainsBrute |
+| Subfinder | https://github.com/projectdiscovery/subfinder |
+| Sublist3r | https://github.com/aboul3la/Sublist3r |
+| Sudomy | https://github.com/Screetsec/Sudomy |
+| The-art-of-subdomain-enumeration | https://github.com/appsecco/the-art-of-subdomain-enumeration |
+| Xray | https://github.com/evilsocket/xray |
