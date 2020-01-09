@@ -9,6 +9,7 @@
 | Ct-exposer | https://github.com/chris408/ct-exposer |
 | Ctfr | https://github.com/UnaPibaGeek/ctfr |
 | Dnscan | https://github.com/rbsec/dnscan |
+| Dnsrecon | https://github.com/darkoperator/dnsrecon |
 | Dnssearch | https://github.com/evilsocket/dnssearch | 
 | Domain_analyzer | https://github.com/eldraco/domain_analyzer |
 | DomainRecon | https://github.com/realsanjay/DomainRecon |
