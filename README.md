@@ -1086,6 +1086,7 @@ Awesome open source intelligence tools and resources.
 |:---:|:---:|
 | 0.Jaegers | https://0.jaegers.net |
 | 0bin | https://0bin.net |  
+| 1ty.me | https://1ty.me/ |
 | Acquia | https://bin.acquia.com/ |  
 | Anadrark | http://anadrark.com/zerobin/ |  
 | Anonbin | https://anonbin.ml/ |  
@@ -1134,9 +1135,11 @@ Awesome open source intelligence tools and resources.
 | PasteLert | https://andrewmohawk.com/pasteLert/ |  
 | Penyacom | http://penyacom.org/ |  
 | Pirapaste | http://paste.piratux.com |  
+| Privnote | https://privnote.com/# |
 | Privatebin.at | https://privatebin.at |  
 | Privatebin.johnnybegood | https://privatebin.johnnybegood.fr |  
-| Privatebin | https://privatebin.net |  
+| Privatebin | https://privatebin.net |
+| Privatty | https://privatty.com/ |
 | Repl.it | https://repl.it |  
 | Roflcopter | https://wtf.roflcopter.fr/paste/ |  
 | Sebsauvage | https://sebsauvage.net/paste/ |  
@@ -1144,6 +1147,7 @@ Awesome open source intelligence tools and resources.
 | Snip | https://snip.dssr.ch |  
 | Systemli | https://paste.systemli.org/ |  
 | Tecff | https://paste.tecff.de/ |  
+| Temp.pm | https://temp.pm/ |
 | Thican | http://zerobin.thican.net/ |  
 | Tiny-paste | http://tiny-paste.com/ |  
 | Unit193 | https://paste.unit193.net/ |  
