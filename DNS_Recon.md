@@ -1,7 +1,7 @@
 | Name | URLs | 
 |:---:|:---:|
 | Assets-from-spf | https://github.com/0xbharath/assets-from-spf |
-| Amass | https://github.com/caffix/amass |
+| Amass | https://github.com/OWASP/Amass |
 | Altdns | https://github.com/infosec-au/altdns |
 | Aquatone | https://github.com/michenriksen/aquatone |
 | Bugcrowd-levelup-subdomain-enumeration | https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration |
