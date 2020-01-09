@@ -9,5 +9,6 @@
 | Photon | https://github.com/s0md3v/Photon |
 | Pown Recon | https://github.com/pownjs/pown-recon |
 | SecApps Recon | https://secapps.com/market/recon |
+| Sn1per | https://github.com/1N3/Sn1per |
 | sn0int | https://github.com/kpcyrd/sn0int |
 | Zen | https://github.com/s0md3v/Zen | 
