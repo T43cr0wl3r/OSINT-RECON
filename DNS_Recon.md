@@ -8,12 +8,13 @@
 | Censys-subdomain-finder | https://github.com/christophetd/censys-subdomain-finder |
 | Ct-exposer | https://github.com/chris408/ct-exposer |
 | Ctfr | https://github.com/UnaPibaGeek/ctfr |
-| Dnscan | https://github.com/rbsec/dnscan |
-| Dnsrecon | https://github.com/darkoperator/dnsrecon |
-| Dnssearch | https://github.com/evilsocket/dnssearch | 
 | Domain_analyzer | https://github.com/eldraco/domain_analyzer |
 | DomainRecon | https://github.com/realsanjay/DomainRecon |
 | Domains-from-csp | https://github.com/0xbharath/domains-from-csp |
+| Dnscan | https://github.com/rbsec/dnscan |
+| Dnsrecon | https://github.com/darkoperator/dnsrecon |
+| Dnssearch | https://github.com/evilsocket/dnssearch | 
+| Dnstwist | https://github.com/elceef/dnstwist |
 | Fierce | https://github.com/mschwager/fierce |
 | Findomain | https://github.com/Edu4rdSHL/findomain |
 | Gobuster | https://github.com/OJ/gobuster |
