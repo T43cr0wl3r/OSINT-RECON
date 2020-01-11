@@ -46,6 +46,7 @@
 | Pulsedive | https://pulsedive.com |
 | Quantcast | https://www.quantcast.com |
 | Quick Sprout | https://www.quicksprout.com |
+| Raccoon | pip3 install raccoon_scanner OR https://github.com/evyatarmeged/Raccoon |
 | Redirect URL | http://www.internetofficer.com/seo-tool/redirect-check/ |
 | RedirectDetective | http://redirectdetective.com |
 | Remote DNS Lookup | https://remote.12dt.com |
