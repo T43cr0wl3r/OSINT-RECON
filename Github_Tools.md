@@ -3,6 +3,7 @@
 | Aware-online | https://www.aware-online.com/osint-tools/ |
 | Belati | https://github.com/aancw/Belati |
 | Datasploit | https://github.com/DataSploit/datasploit |
+| FinalRecon | https://github.com/thewhiteh4t/FinalRecon |
 | Intrigue Core | https://github.com/intrigueio/intrigue-core |
 | Orbit | https://github.com/s0md3v/Orbit |
 | OsintStalker | https://github.com/milo2012/osintstalker |
