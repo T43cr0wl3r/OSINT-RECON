@@ -6,6 +6,7 @@
 | FinalRecon | https://github.com/thewhiteh4t/FinalRecon |
 | Intrigue Core | https://github.com/intrigueio/intrigue-core |
 | Onionscan | https://github.com/s-rah/onionscan |
+| OSINT-SPY | https://github.com/SharadKumar97/OSINT-SPY |
 | Orbit | https://github.com/s0md3v/Orbit |
 | OsintStalker | https://github.com/milo2012/osintstalker |
 | Photon | https://github.com/s0md3v/Photon |
