@@ -6,3 +6,4 @@
 | Satellites | https://www.n2yo.com/ |
 | Suncalc | https://www.suncalc.org |
 | Yandex Maps | https://yandex.com/maps/ |
+| Zoom Earth | https://zoom.earth |
