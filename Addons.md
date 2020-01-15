@@ -2,6 +2,7 @@
 |:---:|:---:|
 | AnonymoX | https://addons.mozilla.org/en-US/firefox/addon/anonymox/ |
 | Cookie Manager | https://addons.mozilla.org/en-US/firefox/addon/a-cookie-manager/ |
+| Columncopy| https://chrome.google.com/webstore/detail/columncopy/lapbbfoohlcmlbdaakldmmallcbcbpjb |
 | Descentraleyes | https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/ |
 | Disable WebRTC | https://addons.mozilla.org/en-US/firefox/addon/happy-bonobo-disable-webrtc/ | 
 | Disconnect | https://addons.mozilla.org/es/firefox/addon/disconnect/ |
@@ -19,6 +20,7 @@
 | IP Address and Domain Information | https://addons.mozilla.org/en-US/firefox/addon/ip-address-and-domain-info/ |
 | Lightshot | https://app.prntscr.com/en/index.html |
 | Linkgopher | https://sites.google.com/site/linkgopher/ |
+| Multicopy | https://addons.mozilla.org/en-US/firefox/addon/multi-copy/ |
 | NoScript | https://addons.mozilla.org/en-US/firefox/addon/noscript/ | 
 | Offsec Exploit-db Search | https://addons.mozilla.org/en-US/firefox/addon/offsec-exploit-db-search/ |
 | Owasp-mantra-ff | https://www.owasp.org/index.php/OWASP_Mantra_-_Security_Framework | 
