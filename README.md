@@ -19,3 +19,4 @@ Awesome open source intelligence tools and resources.
 - [IoT devices search engines](IoT_devices.md)
 - [Username and Users](Username.md)
 - [Pastebin and alternatives](Pastebin.md)
+- [People](People.md)
