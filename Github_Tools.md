@@ -2,6 +2,7 @@
 |:---:|:---:|
 | Aware-online | https://www.aware-online.com/osint-tools/ |
 | Belati | https://github.com/aancw/Belati |
+| CloudFail | https://github.com/m0rtem/CloudFail |
 | Datasploit | https://github.com/DataSploit/datasploit |
 | FinalRecon | https://github.com/thewhiteh4t/FinalRecon |
 | iKy | https://github.com/kennbroorg/iKy |
