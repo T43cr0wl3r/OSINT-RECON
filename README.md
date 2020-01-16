@@ -1,5 +1,5 @@
 # OSINT-RECON
-Awesome open source intelligence tools and resources.
+Open source intelligence tools and resources.
 
 - [Addons and extensions](Addons.md)
 - [Browsers](Browsers.md)
