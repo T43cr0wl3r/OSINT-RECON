@@ -7,6 +7,7 @@
 | FinalRecon | https://github.com/thewhiteh4t/FinalRecon |
 | iKy | https://github.com/kennbroorg/iKy |
 | Intrigue Core | https://github.com/intrigueio/intrigue-core |
+| Investigo | https://github.com/tdh8316/Investigo |
 | Lazyrecon | https://github.com/nahamsec/lazyrecon |
 | Onionscan | https://github.com/s-rah/onionscan |
 | OSINT-SPY | https://github.com/SharadKumar97/OSINT-SPY |
