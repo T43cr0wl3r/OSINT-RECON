@@ -78,6 +78,7 @@
 
 | Name | URL | 
 |:---:|:---:|
+| All queries | https://beta.shodan.io/search/filters |
 | Queries | https://github.com/T43cr0wl3r/shodan-filters |
 
 - Yandex
