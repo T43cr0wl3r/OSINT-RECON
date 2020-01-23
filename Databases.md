@@ -38,5 +38,5 @@
 | Spycloud | https://spycloud.com |
 | The Terminal | http://3ehzuhculg42rosa.onion/ |
 | Turkish Citizenship | http://torc5bhzq6xorhb4.onion/ |
-| We Leak Info | https://weleakinfo.com |
+| We Leak Info | https://weleakinfo.com (Shutdown) |
 | Wikileaks | https://wikileaks.org/ |
