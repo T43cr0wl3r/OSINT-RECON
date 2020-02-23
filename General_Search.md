@@ -36,6 +36,7 @@
 | Metager | https://metager.de/ |
 | Millionshort | https://millionshort.com/ |
 | Moose | https://www.moose.at/ |
+| Mozbot | https://www.mozbot.com/ |
 | Najdi | http://www.najdi.si/ |
 | Naver | https://www.naver.com/ |
 | Onet | https://www.onet.pl/ |
