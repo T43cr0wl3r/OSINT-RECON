@@ -12,7 +12,7 @@ Open source intelligence tools and resources.
 - [Dorking](Dorking.md)
 - [Exploits and CVEs](Exploit_CVE.md)
 - [FTP search engines](FTP.md)
-- [Github Tools](Github_Tools.md)
+- [Github Tools](Github.md)
 - [Images](Images.md)
 - [IoT devices search engines](IoT_devices.md)
 - [Maps](Maps.md)
