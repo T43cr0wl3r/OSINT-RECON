@@ -1,25 +1,29 @@
 | Name | URLs | 
 |:---:|:---:|
-| Aware-online | https://www.aware-online.com/osint-tools/ |
 | Belati | https://github.com/aancw/Belati |
-| CloudFail | https://github.com/m0rtem/CloudFail |
 | Datasploit | https://github.com/DataSploit/datasploit |
-| FinalRecon | https://github.com/thewhiteh4t/FinalRecon |
-| iKy | https://github.com/kennbroorg/iKy |
+| DeepdarkCTI | https://github.com/fastfire/deepdarkCTI/ |
+| Fav-up | https://github.com/pielco11/fav-up |
+| Geogramint | https://github.com/Alb-310/Geogramint |
+| GeoWifi | https://github.com/GONZOsint/geowifi |
+| Gvision | https://github.com/GONZOsint/gvision |
+| Iky | https://github.com/kennbroorg/iKy |
+| IntelOwl | https://github.com/intelowlproject/IntelOwl |
 | Intrigue Core | https://github.com/intrigueio/intrigue-core |
-| Investigo | https://github.com/tdh8316/Investigo |
-| Lazyrecon | https://github.com/nahamsec/lazyrecon |
-| Onionscan | https://github.com/s-rah/onionscan |
-| OSINT-SPY | https://github.com/SharadKumar97/OSINT-SPY |
+| Maigret | https://github.com/soxoj/maigret |
+| Nuclei | https://github.com/projectdiscovery/nuclei |
 | Orbit | https://github.com/s0md3v/Orbit |
 | OsintStalker | https://github.com/milo2012/osintstalker |
+| Poorskeme | https://github.com/kennbroorg/poorskeme |
 | Photon | https://github.com/s0md3v/Photon |
-| Pown Recon | https://github.com/pownjs/pown-recon |
-| RED HAWK | https://github.com/Tuhinshubhra/RED_HAWK |
-| ReconCobra | https://github.com/haroonawanofficial/ReconCobra |
-| Reverse ip lookup | https://github.com/ArifulProtik/reverse-ip-lookup |
-| Shodan_Recon | https://github.com/richard-clifford/Shodan_Recon |
-| SecApps Recon | https://secapps.com/market/recon |
-| Sn1per | https://github.com/1N3/Sn1per |
+| QRExfil | https://github.com/Shell-Company/QRExfil |
+| RedEye | https://github.com/cisagov/RedEye |
+| Sherlock | https://github.com/sherlock-project/sherlock |
 | sn0int | https://github.com/kpcyrd/sn0int |
+| Sputnik | https://github.com/mitchmoser/sputnik |
+| Testssl | https://github.com/drwetter/testssl.sh |
+| Telegram shell bot | https://github.com/vicalloy/telegram-shell-bot |
+| TIGMINT | https://github.com/TIGMINT/TIGMINT |
+| Tracgram | https://github.com/initzerCreations/Tracgram |
+| Tweeds | https://github.com/achyuthjoism/tweeds |
 | Zen | https://github.com/s0md3v/Zen | 
