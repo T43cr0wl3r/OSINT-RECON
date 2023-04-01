@@ -1,18 +1,16 @@
+
 | Name | URLs | 
 |:---:|:---:|
 | Accuranker | https://www.accuranker.com |
 | ahrefs | https://ahrefs.com |
 | Alexa | http://www.alexa.com |
-| Bing Webmaster Tools | http://www.bing.com/toolbox/webmaster |
 | BuiltWith | http://builtwith.com |
 | Central Ops | http://centralops.net |
-| Certdb | https://certdb.com/ |
 | Dedicated or Not | http://dedicatedornot.com |
 | DNSDumpster | https://dnsdumpster.com |
 | DNS History | http://dnshistory.org |
 | DNSStuff | http://www.dnsstuff.com |
 | DNSViz | http://dnsviz.net |
-| Domain Big Data | http://domainbigdata.com |
 | Domain Crawler | http://www.domaincrawler.com |
 | Domain Dossier | http://centralops.net/co/DomainDossier.aspx |
 | Domain Tools | http://whois.domaintools.com | 
@@ -29,16 +27,13 @@
 | IP 2 Location | http://www.ip2location.com/demo.aspx |
 | IPFingerprints | http://www.ipfingerprints.com |
 | IPVoid | http://www.ipvoid.com |
-| Ipv4info | http://ipv4info.com |
 | IntelliTamper | http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml |
 | Kloth | http://www.kloth.net/services |
-| NetworkTools | http://network-tools.com |
 | Networksdb | https://networksdb.io |
 | Majestic | https://majestic.com |
 | MaxMind | https://www.maxmind.com |
 | MXToolbox | http://mxtoolbox.com |
 | Netcraft Site Report | http://toolbar.netcraft.com/site_report?url=undefined#last_reboot |
-| OpenLinkProfiler | http://www.openlinkprofiler.org/ratelimit/domain.com |
 | Open Site Explorer | https://moz.com/researchtools/ose |
 | PageGlimpse | http://www.pageglimpse.com |
 | Pentest-Tools.com | https://pentest-tools.com/information-gathering/google-hacking |
@@ -46,20 +41,15 @@
 | Pulsedive | https://pulsedive.com |
 | Quantcast | https://www.quantcast.com |
 | Quick Sprout | https://www.quicksprout.com |
-| Raccoon | pip3 install raccoon_scanner OR https://github.com/evyatarmeged/Raccoon |
-| Redirect URL | http://www.internetofficer.com/seo-tool/redirect-check/ |
 | RedirectDetective | http://redirectdetective.com |
 | Remote DNS Lookup | https://remote.12dt.com |
-| Reverse Whois | https://domaineye.com/reverse-whois |
 | Robtex | https://www.robtex.com |
 | SecurityTrails | https://securitytrails.com/dns-trails | 
 | SEMrush | https://www.semrush.com |
-| SEO Chat Tools | http://tools.seochat.com |
 | SEOTools for Excel | http://seotoolsforexcel.com |
 | SmallSEOTools | http://smallseotools.com |
 | StatsCrop | http://www.statscrop.com |
 | Squatm3gator | https://github.com/david3107/squatm3gator |
-| TCPIPUTILS.com | http://www.tcpiputils.com |
 | URLVoid | http://www.urlvoid.com |
 | WebMeUp | http://webmeup.com |
 | Website Informer | http://website.informer.com |
