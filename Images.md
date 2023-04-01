@@ -1,25 +1,21 @@
+
 | Name | URLs | 
 |:---:|:---:|
 | Baidu | http://image.baidu.com/ |
-| Brandfetch | http://brandfetch.io/ |
-| Brandslogo | https://brandslogo.net/ |
-| Brandsoftheworld | https://www.brandsoftheworld.com/ |
 | Bing | https://www.bing.com/?scope=images&nr=1&FORM=NOFORM |
 | Camfindapp | https://camfindapp.com/ |
 | Dreamstime | https://www.dreamstime.com/ |
 | Exalead | http://www.exalead.com/search/ |
+| Facecheck | https://facecheck.id/ |
 | Flickr | https://www.flickr.com/ |
 | Gettyimages | https://www.gettyimages.fr/ |
-| Google | https://images.google.com/ |
+| Google Images | https://images.google.com/ |
+| Google Lens | https://lens.google |
 | Imgur | https://imgur.com/search?q= |
 | Karmadecay | http://karmadecay.com/ |
-| Logoeps | https://logoeps.com/ |
-| Picsearch | https://www.picsearch.com/ |
+| Pimeye | https://pimeyes.com/en |
 | Pinterest | https://www.pinterest.com/ |
 | Reuters | https://pictures.reuters.com/C.aspx?VP3=HomePage |
-| Seeklogo | https://seeklogo.com/ |
-| Trademark | https://trademark-search.marcaria.com/en |
-| Trademarkia | https://www.trademarkia.com/ |
 | Tineye | https://tineye.com/ |
 | Yandex | https://yandex.com/images/ |
 | Yahoo | https://images.search.yahoo.com/images |
