@@ -22,3 +22,4 @@ Open source intelligence tools and resources.
 - [Search Engines](Search_Engines.md)
 - [Temporary Email Disposable](Temporary_Email.md)
 - [Username and Users](Username.md)
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
