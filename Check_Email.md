@@ -14,6 +14,7 @@
 | Leak - Lookup | https://leak-lookup.com |
 | Leakpeek | https://leakpeek.com |
 | Mxtoolbox | https://mxtoolbox.com/EmailHeaders.aspx |
+| Opsis | https://useopsis.com |
 | Peepmail | http://www.samy.pl/peepmail |
 | Predicta Search | https://www.predictasearch.com |
 | Scattered Secrets | https://scatteredsecrets.com |
