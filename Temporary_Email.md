@@ -25,6 +25,7 @@
 | Spamgourmet | https://www.spamgourmet.com |
 | Tempail | https://tempail.com |
 | Temp-mail | https://temp-mail.org |
+| TempMail Hub | https://tempmailhub.net |
 | Throwawaymail | https://www.throwawaymail.com |
 | Tempr | https://tempr.email |
 | Trashmail | https://trashmail.com |
