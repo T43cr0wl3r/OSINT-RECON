@@ -43,6 +43,7 @@
 | Send to Exif Wiewer | https://addons.mozilla.org/fr/firefox/addon/wayback-machine_new/ | Firefox |
 | Shodan | https://addons.mozilla.org/en-US/firefox/addon/shodan_io/ | Firefox |
 | Simple Translate | https://addons.mozilla.org/en-US/firefox/addon/simple-translate/ | Firefox |
+| Spoof Me | https://addons.mozilla.org/en-US/firefox/addon/spoof-me/ https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki | Firefox/Chrome |
 | Sputnik | https://addons.mozilla.org/en-US/firefox/addon/sputnik-osint/ | Firefox |
 | Temp Mail - Disposable Temporary Email | https://addons.mozilla.org/en-US/firefox/addon/temp-mail/ | Firefox |
 | Trufflehog | https://addons.mozilla.org/en-US/firefox/addon/trufflehog/ | Firefox |
