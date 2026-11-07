@@ -13,6 +13,7 @@
 | LeakCheck | https://leakcheck.io |
 | Leak - Lookup | https://leak-lookup.com |
 | Leakpeek | https://leakpeek.com |
+| looot | https://looot.ai |
 | Mxtoolbox | https://mxtoolbox.com/EmailHeaders.aspx |
 | Peepmail | http://www.samy.pl/peepmail |
 | Predicta Search | https://www.predictasearch.com |
